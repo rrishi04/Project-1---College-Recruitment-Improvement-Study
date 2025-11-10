@@ -10,7 +10,11 @@ How did the interest level (1-5) of taking more computing classes differ from th
 
 Files:
 2020-Cleaned.csv: Cleaned CSV file containing the 2020 data used in both my parts 2 and 3 for graphing and analyzing data
+
 2024-Cleaned.csv: Cleaned CSV file containing the 2024 data used in both my parts 2 and 3 for graphing and analyzing data
+
 2020.csv: Normal CSV File, uncleaned data for the 2020 data. Altered and modified this CSV in order to make clean CSV files for the corresponding years.
+
 2024.csv: Normal CSV File, uncleaned data for the 2024 data. Altered and modified this CSV in order to make clean CSV files for the corresponding years.
+
 Project#1_Part2 (1).ipynb: Part 2 and Part 3 of my project, where my CSV is cleaned with pandas, and I used the  cleaned CSV with matplotlib to graph my findings and answered my questions for the project
